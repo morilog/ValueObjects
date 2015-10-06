@@ -1,0 +1,26 @@
+{
+    "name": "morilog/value-objects",
+    "description": "Common ValueObjects used in my projects",
+    "keywords": [
+        "value objects",
+        "email",
+        "gravatar",
+        "slug",
+        "url title",
+        "morilog"
+    ],
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Morteza Parvini",
+            "email": "m.parvini@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Morilog\\ValueObjects\\": "src/"
+        }
+    }
+}
